@@ -1,1 +1,5 @@
 temp file for first commit
+
+Git commands:
+git pull origin master
+git push origin master
